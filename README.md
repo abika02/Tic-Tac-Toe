@@ -6,15 +6,8 @@
  ⭕  <i>Either X or O wins the game stops.</i><br>
 
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
-
-
- 
+<br> 
 
 | ❌ | ⭕ | ❌ |
 |---|---|---|
